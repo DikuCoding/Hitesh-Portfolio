@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hitesh-Portfolio/static/css/main.3ffe5d66.css",
+    "main.js": "/Hitesh-Portfolio/static/js/main.26f57401.js",
+    "static/js/787.44bb8de6.chunk.js": "/Hitesh-Portfolio/static/js/787.44bb8de6.chunk.js",
+    "static/media/logo.svg": "/Hitesh-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hitesh-Portfolio/index.html",
+    "main.3ffe5d66.css.map": "/Hitesh-Portfolio/static/css/main.3ffe5d66.css.map",
+    "main.26f57401.js.map": "/Hitesh-Portfolio/static/js/main.26f57401.js.map",
+    "787.44bb8de6.chunk.js.map": "/Hitesh-Portfolio/static/js/787.44bb8de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffe5d66.css",
+    "static/js/main.26f57401.js"
+  ]
+}
