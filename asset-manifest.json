@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hitesh-Portfolio/static/css/main.dca2119b.css",
+    "main.css": "/Hitesh-Portfolio/static/css/main.ed2e2baf.css",
     "main.js": "/Hitesh-Portfolio/static/js/main.249a558b.js",
     "static/js/787.44bb8de6.chunk.js": "/Hitesh-Portfolio/static/js/787.44bb8de6.chunk.js",
     "static/media/logo.svg": "/Hitesh-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Hitesh-Portfolio/index.html",
-    "main.dca2119b.css.map": "/Hitesh-Portfolio/static/css/main.dca2119b.css.map",
+    "main.ed2e2baf.css.map": "/Hitesh-Portfolio/static/css/main.ed2e2baf.css.map",
     "main.249a558b.js.map": "/Hitesh-Portfolio/static/js/main.249a558b.js.map",
     "787.44bb8de6.chunk.js.map": "/Hitesh-Portfolio/static/js/787.44bb8de6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dca2119b.css",
+    "static/css/main.ed2e2baf.css",
     "static/js/main.249a558b.js"
   ]
 }
